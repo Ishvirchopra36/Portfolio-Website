@@ -259,10 +259,6 @@ git push origin main
 
 This project is open source
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/portfolio/issues).
-
 ## Inspiration & Credits
 
 - Design inspiration from various developer portfolios
